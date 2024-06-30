@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.app__videos {
+  position: relative;
+  height: 100vh;
+  overflow: scroll;
+  scroll-snap-type: y mandatory;
+}
