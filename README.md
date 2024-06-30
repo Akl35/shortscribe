@@ -50,9 +50,6 @@ If you want to add your own videos to ShortScribe, follow the instructions below
 
 If you have any questions about or issues related to the repo, please contact Akhil Iyer at akhil.iyer@utexas.edu
 
-Tess Van Daele (tessvandaele@utexas.edu)
-Akhil Iyer (akhil.iyer@utexas.edu)
-
 ```
 @article{van2024making,
         title={Making Short-Form Videos Accessible with Hierarchical Video Summaries},
