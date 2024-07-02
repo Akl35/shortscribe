@@ -1,6 +1,6 @@
 # ShortScribe
 
-This repo contains the source code for the interface of ShortScribe, a tool for making short-form videos accessible to blind and low vision users. For reference, see the project page [here](https://minahuh.com/ShortScribe/) and the publication [here](https://minahuh.com/ShortScribe/)
+This repo contains the source code for the interface of ShortScribe, a tool for making short-form videos accessible to blind and low vision users. For reference, see the project page [here](https://minahuh.com/ShortScribe/) and the publication [here](https://minahuh.com/ShortScribe/). To see the code for ShortScribe's AI pipeline, see the Hugging Face Space [here](https://huggingface.co/spaces/akhil03/ShortScribe-Pipeline/blob/main/README.md)
 
 ### Demo Link
 
